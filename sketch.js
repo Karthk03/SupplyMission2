@@ -13,7 +13,6 @@ function preload()
 {
 	background_img = loadImage("Sky.png");
 	helicopterIMG=loadImage("helicopter.png");
-	packageIMG=loadImage("package.png");
 }
 
 function setup() 
