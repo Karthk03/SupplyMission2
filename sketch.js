@@ -11,7 +11,7 @@ const Body = Matter.Body;
 
 function preload()
 {
-	background_img = loadImage("Sprites/Sky.png");
+	background_img = loadImage("Sky.png");
 	helicopterIMG=loadImage("helicopter.png");
 	packageIMG=loadImage("package.png");
 }
